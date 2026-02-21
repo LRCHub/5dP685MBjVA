@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "猫の手は借りて",
+  "base_artist": "Tokyo Incidents",
+  "createdAt": "2026-02-21T15:28:52.194855Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Neko no Te wa Karite [猫の手は借りて]",
+      "artist": "Tokyo Incidents",
+      "has_synced": true,
+      "path": "select/01_Neko_no_Te_wa_Karite_[猫の手は借りて]_Tokyo_Incidents.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "猫の手は借りて",
+      "artist": "東京事変",
+      "has_synced": true,
+      "path": "select/02_猫の手は借りて_東京事変.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "猫の手は借りて",
+      "artist": "東京事変",
+      "has_synced": false,
+      "path": "select/pl_01_猫の手は借りて_東京事変.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "猫の手は借りて",
+      "artist": "東京事変",
+      "has_synced": false,
+      "path": "select/pl_02_猫の手は借りて_東京事変.txt"
+    }
+  ]
+}
